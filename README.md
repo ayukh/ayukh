@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## ❓ About Me:
 ⚡ Statistics MSc @ ETH Zurich (2022-)<br>⚡ Economic Cybernetics MSc @ Kyiv Polytechnic Institute (2017-2022)
 
