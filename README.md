@@ -1,5 +1,5 @@
 ## ❓ About Me:
-⚡ Statistics MSc @ ETH Zurich (2022-)<br>⚡ Economic Cybernetics BSc/MSc @ National Technical University of Ukraine "Kyiv Polytechnic Institute" (2017-2022)
+⚡ Statistics MSc @ ETH Zurich (2022-2025)<br>⚡ Economic Cybernetics BSc/MSc @ National Technical University of Ukraine "Kyiv Polytechnic Institute" (2017-2022)
 
 
 ## 🌐 Links:
