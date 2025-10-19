@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=CA2828&width=435&lines=Hi%2C+I+am+Hanna!;I+am+a+MSc+student+at+ETH+Zurich;I+work+on+multilingual+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C33030&width=435&lines=Hey%2C+I+am+Hanna!;I+work+on+multilingual+LLMs;I+also+like+breaking+LLMs;%3C3+open-source)](https://git.io/typing-svg)
 ## ❓ About Me:
-⚡ Statistics MSc @ ETH Zurich (2022-2025)<br>⚡ Economic Cybernetics BSc/MSc @ National Technical University of Ukraine "Kyiv Polytechnic Institute" (2017-2022)
+⚡Machine Learning Research Engineer @ Hugging Face🤗 (2025)<br>⚡Research Assistant @ ETH Zurich (2023-2024)<br>
+🎓 Statistics MSc @ ETH Zurich (2022-2025)<br>🎓 Economic Cybernetics BSc/MSc @ National Technical University of Ukraine "Kyiv Polytechnic Institute" (2017-2022)
 
 
 ## 🌐 Links:
